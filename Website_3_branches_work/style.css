@@ -1,32 +1,27 @@
-body {
+body{
     margin: 0;
     padding: 0;
 }
 
 /*------------------header--------------------------------------------*/
-.header {
-    width: 100vw;
-    height: 10vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #ea0685;
-}
+.header{
 
-.header p {
-    color: white;
-    font-size: 6vh;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: bold;
 }
 
 /*-------------------main--------------------------------------------*/
-.main {
-
+.main{
+    width: 100vw;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #c72ffb;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /*------------------footer------------------------------------------*/
-.footer {
+.footer{
 
 }
 
