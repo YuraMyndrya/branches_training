@@ -1,27 +1,32 @@
-body{
+body {
     margin: 0;
     padding: 0;
 }
 
 /*------------------header--------------------------------------------*/
-.header{
-
-}
-
-/*-------------------main--------------------------------------------*/
-.main{
+.header {
     width: 100vw;
-    height: 85vh;
+    height: 10vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #c72ffb;
+    background-color: #ea0685;
+}
+
+.header p {
     color: white;
+    font-size: 6vh;
     font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+/*-------------------main--------------------------------------------*/
+.main {
+
 }
 
 /*------------------footer------------------------------------------*/
-.footer{
+.footer {
 
 }
 
