@@ -1,4 +1,4 @@
-body {
+body{
     margin: 0;
     padding: 0;
 }
@@ -10,9 +10,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #ea0685;
+    background: #c72ffb;
+    color: white;
+    font-size: 6vh;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
-
 .header p {
     color: white;
     font-size: 6vh;
