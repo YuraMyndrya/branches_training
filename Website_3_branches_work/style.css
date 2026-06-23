@@ -10,7 +10,14 @@ body{
 
 /*-------------------main--------------------------------------------*/
 .main{
-
+    width: 100vw;
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #c5c5c5;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
 }
 
 /*------------------footer------------------------------------------*/
