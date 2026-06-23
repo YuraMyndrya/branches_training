@@ -34,7 +34,12 @@ body {
 
 /*------------------footer------------------------------------------*/
 .footer {
-
+    width: 100vw;
+    height: 2vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ea0685;
 }
 
 
