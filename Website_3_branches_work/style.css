@@ -1,4 +1,5 @@
-body {
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
@@ -11,6 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #ea0685;
+    border: 2px solid black;
 }
 .header p {
     color: white;
