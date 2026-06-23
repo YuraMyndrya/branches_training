@@ -21,7 +21,7 @@ body {
 }
 
 /*-------------------main--------------------------------------------*/
-.main{
+.main {
     width: 100vw;
     height: 85vh;
     display: flex;
@@ -40,6 +40,12 @@ body {
     justify-content: center;
     align-items: center;
     background-color: #ea0685;
+}
+
+.footer h2 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 
 
